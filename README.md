@@ -12,4 +12,4 @@ If you use these models, please cite:
 
 Nex, F.; Duarte, D.; Tonolo, F.G.; Kerle, N. Structural Building Damage Detection with Deep Learning: Assessment of a State-of-the-Art CNN in Operational Conditions. Remote Sens. 2019, 11, 2765. 
 
-
+and share your results on your dataset in this page (if you want).
